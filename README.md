@@ -1,0 +1,2 @@
+# CustomRadioButton
+可以自定义图片大小的RadioButton和CheckBox直接拿去用就可以了   将两个类拷贝到项目中  在xml中使用时设置自定义属性就ok了
